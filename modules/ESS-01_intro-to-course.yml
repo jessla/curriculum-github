@@ -6,7 +6,7 @@ screens:
       title: Welcome to the GitHub for Everyone Course!
       image: github-icon.jpg
       presenter-script: |
-        This course is designed to walk you through best practices on using Git for version control and GitHub for collaboration. You'll be reading text and watching videos about Git and GitHub, and we'll be asking you to perform all the actions we show you in your own GitHub repository. You'll have the chance to practice everything you learn.
+        This course is designed to walk you through best practices on using GitHub for collaboration. You'll be reading text and watching videos about GitHub, and we'll be asking you to perform all the actions we show you in your own GitHub repository. You'll have the chance to practice everything you learn.
 
         Click the "next" button above to move onto the next slide.
   - image-slide:
@@ -15,21 +15,21 @@ screens:
       presenter-script: |
         GitHub is a website that allows your team to collaborate more effectively. It is built on top of Git—a distributed version control system. GitHub and Git help teams to collaborate more effectively on projects.
 
-        With Git, each person has a local copy of the project to work on. As they make changes locally, they can upload them to GitHub and download any changes that others have made.
+        With Git, each person has a local copy (on their computer) of the project to work on. As they make changes locally, they can upload them to GitHub and download any changes that others have made.
 
         GitHub provides access to a central copy of the code, as well as features like Pull Requests and Issues that make collaborating easier.
   - image-slide:
       title: Key GitHub Features
       image: github-repositories.png
       presenter-script:
-        - In addition to being a place to host and share your Git projects, GitHub provides features, like Pull Requests and Issues, that make collaborating easier. Issues are general place for discussions about the project, from high-level planning to bug tracking. Pull Requests let you discuss and review specific changes to the project files themselves.
+        - In addition to being a place to host and share your Git projects, GitHub provides features, like Pull Requests and Issues, that make collaborating easier. Issues are a general place for discussions about the project, from high-level planning to bug tracking. Pull Requests let you discuss and review specific changes to the project files themselves.
   - image-slide:
       title: The GitHub Ecosystem
       image: blank.png
       presenter-script: |
-        You can also use all of your favorite tools with GitHub. You don't need to use a new text editor or bug tracker: your team gets to keep the tools they're comfortable with.
+        Teams can also use all of their favorite tools with GitHub. Users don't need to use a new text editor or bug tracker: your team gets to keep the tools they're comfortable with.
 
-        GitHub can also integrate into your current deployment process, and fully supports continuous integration and continuous deployment to help you and your team build software better, together.
+        GitHub can also integrate into an existing deployment process, and fully supports continuous integration and continuous deployment to help you and your team build software better, together.
 
         For more information on integrating GitHub with the tools you already use, refer to <a href="https://github.com/integrations" target="_blank">GitHub's Integrations page</a>.
 
